@@ -1,6 +1,6 @@
 # **Customer Churn Predictor – Deep Learning & Streamlit**  
 
-🚀 **Live Demo: https://customer-churn-predictor-arm6exmdpzi47rukyew3km.streamlit.app/  
+🚀 **Live Demo: https://customer-churn-predictor-main-xq3edd47lg6vsi3byuegqu.streamlit.app/  
 
 ## 📌 **Project Overview**  
 Customer churn is a critical business problem where companies lose customers over time. This project uses **Deep Learning** to predict whether a customer is likely to churn based on historical data. The model has been deployed using **Streamlit**, allowing businesses to interactively check churn probability and take proactive retention measures.  
